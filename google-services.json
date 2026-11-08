@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080732065371",
+    "project_id": "shree-rastu-vastu-jyotishya",
+    "storage_bucket": "shree-rastu-vastu-jyotishya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080732065371:android:58ddcb1d3f3a1174b7697e",
+        "android_client_info": {
+          "package_name": "com.shreerastu.vastu.jyotishya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nYsRkfCol8kL4duutPbt6KVxHkvgua0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
